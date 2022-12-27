@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- name: GitHub-Profile-3D-Contrib
+  uses: yoshi389111/github-profile-3d-contrib@0.7.0
+
